@@ -1,0 +1,15 @@
+# React - Node App
+
+## Client
+React Frontend App
+>npm install
+>npm run build
+>nom run dev
+
+## Server
+Node Backend App
+>npm install
+>npm start
+
+## Proxy
+Nginx Proxy Server
